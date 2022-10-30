@@ -16,10 +16,15 @@
     ],
     "require": {
         "composer/installers": "^1.9",
+        "drupal/backup_migrate": "^5.0",
+        "drupal/coffee": "^1.2",
         "drupal/core-composer-scaffold": "^9.4",
         "drupal/core-project-message": "^9.4",
         "drupal/core-recommended": "^9.4",
         "drupal/core-vendor-hardening": "^9.4",
+        "drupal/d8w3css": "^2.0",
+        "drupal/fences": "^3.0",
+        "drupal/w3css_paragraphs": "^1.0",
         "drush/drush": "^11.3"
     },
     "conflict": {
